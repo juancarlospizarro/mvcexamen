@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-<?php include("head.php"); ?>
+<?php include("view/head.php"); ?>
 
 <body>
-   <?php include("menu.php"); ?>
+   <?php include("view/menu.php"); ?>
     <table class="table">
         <thead>
             <tr>
