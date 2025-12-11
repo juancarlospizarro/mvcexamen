@@ -1,4 +1,4 @@
-<?php require_once("../controller/ControllerListar.php");?>
+<?php require_once("controller/ControllerListar.php");?>
 <!DOCTYPE html>
 <html lang="pt-br">
 
