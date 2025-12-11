@@ -1,5 +1,5 @@
 <?php
-require_once("../model/banco.php");
+require_once("model/banco.php");
 class listarController{
 
     private $lista;
